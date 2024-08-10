@@ -15,7 +15,6 @@ Also, this application contains the static contents such as html file, css file 
 So, you can check this application without starting a web server for front end.
 Please refer to the 'Starting Server' section about checking the behavior of this application.
 
-If you would like to develop a web application using golang, please feel free to use this sample.
 
 ## Install
 Perform the following steps:
