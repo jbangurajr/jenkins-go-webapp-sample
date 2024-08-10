@@ -23,7 +23,7 @@ Perform the following steps:
 1. Download and install [Golang](https://golang.org/).
 1. Get the source code of this repository by the following command.
     ```bash
-    go get -u github.com/ybkuroki/go-webapp-sample
+    go get -u github.com/jbangurajr/jenkins-go-webapp-sample
     ```
 
 ## Starting Server
